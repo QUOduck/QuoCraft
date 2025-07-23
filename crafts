@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QuoCraft - Paper Model Gallery & Crafting Ideas</title>
+
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="Explore QuoCraft's paper model gallery with creative crafting ideas like paper rockets, campsite scenes, gift boxes, and more. Perfect for hobbyists, kids, and classrooms.">
+  <meta name="keywords" content="QuoCraft, paper crafting, paper models, how to make paper rocket, how to make gift box, campsite paper craft, printable 3D models, papercraft for kids, DIY paper crafts, creative activities, model templates, free printables, craft sets, papercraft tutorial, one-sided printing models">
+  <meta name="author" content="QuoCraft">
+
+  <!-- Open Graph Tags for Social Sharing -->
+  <meta property="og:title" content="QuoCraft - Creative Paper Models & Craft Ideas">
+  <meta property="og:description" content="Discover printable papercraft models and tutorials including rockets, boxes, scenery and more for DIY enthusiasts and kids.">
+  <meta property="og:image" content="https://yourdomain.com/images/preview.jpg">
+  <meta property="og:url" content="https://yourdomain.github.io">
+  <meta property="og:type" content="website">
+
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 2rem;
+      background: #fffdf6;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      font-size: 2rem;
+      color: #ffaf00;
+    }
+    ul {
+      line-height: 1.7;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to QuoCraft Model Gallery</h1>
+    <p>This page is part of the <strong>QuoCraft</strong> project — your creative hub for printable paper models and DIY craft sets. Although our homepage is hosted separately, this gallery contains all the fun paper templates and craft tutorials that you can explore, print, and assemble at home or in classrooms.</p>
+
+    <h2>What You’ll Find Here</h2>
+    <ul>
+      <li>How to make a simple paper rocket</li>
+      <li>DIY gift box with templates</li>
+      <li>Campsite paper models and scenery</li>
+      <li>Fun and easy papercraft for kids and beginners</li>
+      <li>Printable one-side-only model layouts</li>
+      <li>Combo sets for festivals and events</li>
+      <li>Professional-style hobby models</li>
+    </ul>
+
+    <h2>Why Paper Crafting?</h2>
+    <p>Paper crafting is not only a relaxing, screen-free activity, but also boosts creativity, spatial reasoning, and patience. Whether you’re a student, teacher, parent, or hobbyist, QuoCraft offers beginner-friendly and professional papercraft ideas alike.</p>
+
+    <h2>Explore the Models</h2>
+    <p><a href="https://yourGoogleDriveLinkHere.com" target="_blank">Click here to explore the full model gallery ➜</a></p>
+
+    <footer>
+      <p><small>&copy; 2025 QuoCraft. All rights reserved. | Crafted with paper & passion.</small></p>
+    </footer>
+  </div>
+</body>
+</html>
